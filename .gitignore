@@ -1,0 +1,18 @@
+# Datasets — download from Kaggle, do not commit
+DATASET/
+clean_dataset/
+dataset/
+
+# Trained weights — regenerate with `python model.py`
+*.h5
+*.keras
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
