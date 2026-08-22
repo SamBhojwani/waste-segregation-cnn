@@ -1,11 +1,15 @@
-# ♻️ Waste Segregation CNN
+<p align="center">
+  <img src="docs/banner.png" alt="Waste Segregation — organic vs. recyclable" width="100%">
+</p>
 
 > A convolutional neural net that sorts waste photographs into **organic** and **recyclable**,
 > served through a Streamlit app you can drop an image into.
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-app-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Streamlit-app-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+</p>
 
 ---
 
